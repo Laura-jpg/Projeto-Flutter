@@ -1,0 +1,127 @@
+{
+   "checksum": "898efa232a1fcd966a05c8042e9651e7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13393290813143568",
+            "date_last_used": "0",
+            "guid": "6d999a3f-9fa0-4e7b-b743-8265040bbd44",
+            "id": "15",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13393290813142861",
+            "date_last_used": "0",
+            "guid": "547b565b-bfce-4bfb-b027-499a74ddc7e7",
+            "id": "14",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13393290813141548",
+            "date_last_used": "0",
+            "guid": "7a851a28-7865-4f84-8739-feb39c1dc8e0",
+            "id": "13",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13387411786107099",
+               "date_last_used": "0",
+               "guid": "56e59aa9-b3dc-4e07-9242-630ebbcd63cb",
+               "id": "10",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.acer.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13387413060862668",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1891b4ba-2b3f-433b-ac5a-bb4f84c4a985",
+            "id": "9",
+            "name": "Acer",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13393289748513751",
+            "date_last_used": "0",
+            "guid": "e787295a-460a-4694-8867-b6c475c9fb35",
+            "id": "8",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13393289748513273",
+            "date_last_used": "0",
+            "guid": "4056e367-33fc-42cb-a159-20d3fe8246a1",
+            "id": "7",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13393289748512342",
+            "date_last_used": "0",
+            "guid": "1d970703-b8e2-4f5f-b506-f9c2ebda2e26",
+            "id": "6",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         } ],
+         "date_added": "13393289747956858",
+         "date_last_used": "0",
+         "date_modified": "13393290813143568",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13393289747956863",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13393289747956868",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCLPtkS2XAQAAEgAqGHUyZ2lDM012SldxVE5VMVNtODMwcGc9PUgDoAYMEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGJmODY5MGE0LWM1MzctNWIyZC05OWI5LTA3YmIwMzhhYTllMhgAIAAoADC56uzWzTI44/Hs1s0yQOPx7NbNMkoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ5ZDdmN2Y3Zi04OGIzLTUzM2EtODU1OS1iNDJjMDgwMjE4YzgYACAAKAAws+rs1s0yOIbx7NbNMkCG8ezWzTJKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrAEICRKnAQocSzZNaXBJeDFiZkd3bGJubTRIZGJzZlJ6b21nPRIkMTg5MWI0YmEtMmIzZi00MzNiLWFjNWEtYmI0Zjg0YzRhOTg1GAAgACgAMLGZqPrcMjjhnqj63DJA4Z6o+twyShxmVG5JNmdxSTRmWm1vV3JUUFJISzQvV1ZSOGc9Wh4iHFUrRDIzYUFUQjl0WVF2c29VcllVd0MxUHEwTT1lAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDQ2NzVhNmViLTM2YjgtNTIyNS05ZGMwLWZkN2U3MzM5MjZkMRgAIAAoADC06uzWzTI4rfHs1s0yQK3x7NbNMkocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKsAQgKEqcBChxONk5ucmkzU2NwMVBxTkIyWFpQMHFPNG1rbHc9EiQ1NmU1OWFhOS1iM2RjLTRlMDctOTI0Mi02MzBlYmJjZDYzY2IYACAAKAAwspmo+twyOJKfqPrcMkCSn6j63DJKHEJZM2ZtWjliN2ZuK1JGaktrU21sbUhnNUNaND1aHiIcWnFaeG9kek5YMTVyMSttOWVmMFVSQ0hDNjhZPWUAAAAAwj4CYAUwADgA",
+   "version": 1
+}

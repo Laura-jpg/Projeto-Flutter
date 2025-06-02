@@ -1,0 +1,4 @@
+{"logTime": "0601/221438", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-06-01T22:14:38.003Z"}}
+{"logTime": "0601/223120", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-06-01T22:31:20.836Z"}}
+{"logTime": "0601/225757", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-06-01T22:57:57.573Z"}}
+{"logTime": "0602/005018", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-06-02T00:50:18.531Z"}}
